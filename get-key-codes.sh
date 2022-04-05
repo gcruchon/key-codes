@@ -1,0 +1,1 @@
+hidutil property --get "UserKeyMapping"

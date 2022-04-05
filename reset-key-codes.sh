@@ -1,0 +1,1 @@
+hidutil property --set '{"UserKeyMapping":[]}'
